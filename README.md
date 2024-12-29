@@ -7,8 +7,8 @@ I am Steve Zeng, a student interested in chemistry and computer science.
 
 
 #### Education
-West Senior High School (last year), 2021-2025
-University of Iowa (75 total semester hours), 2022-2025
+- West Senior High School (last year), 2021-2025
+- University of Iowa (75 total semester hours), 2022-2025
 
 #### Coursework
 - Bioconjugate Chemistry (Graduate)
